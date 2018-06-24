@@ -1,0 +1,10 @@
+--- /home/hunter/github/shared_files/june_24_2018/Makefile_linux-headers-4.15.0-23	2018-06-24 20:41:00.105195006 +0800
++++ ./Makefile	2018-06-24 21:00:35.222494482 +0800
+@@ -651,6 +651,7 @@
+ 
+ KBUILD_CFLAGS	+= $(call cc-option,-fno-PIE)
+ KBUILD_AFLAGS	+= $(call cc-option,-fno-PIE)
++KBUILD_CPPFLAGS += $(call cc-option, -fno-pie)
+ CFLAGS_GCOV	:= -fprofile-arcs -ftest-coverage -fno-tree-loop-im $(call cc-disable-warning,maybe-uninitialized,)
+ export CFLAGS_GCOV CFLAGS_KCOV
+ 
