@@ -1,0 +1,193 @@
+[64821.429546] soundcore: loading out-of-tree module taints kernel.
+[64821.429592] soundcore: module verification failed: signature and/or required key missing - tainting kernel
+[65084.055633] snd_pcm: Unknown symbol snd_timer_notify (err 0)
+[65084.055645] snd_pcm: Unknown symbol snd_timer_interrupt (err 0)
+[65084.055687] snd_pcm: Unknown symbol snd_timer_new (err 0)
+[65383.423774] snd_hda_intel: Unknown symbol snd_hdac_bus_enter_link_reset (err 0)
+[65383.423788] snd_hda_intel: Unknown symbol azx_probe_codecs (err 0)
+[65383.423803] snd_hda_intel: Unknown symbol azx_init_streams (err 0)
+[65383.423826] snd_hda_intel: Unknown symbol azx_stop_all_streams (err 0)
+[65383.423836] snd_hda_intel: Unknown symbol snd_hdac_bus_free_stream_pages (err 0)
+[65383.423843] snd_hda_intel: Unknown symbol snd_hdac_bus_exit (err 0)
+[65383.423851] snd_hda_intel: Unknown symbol azx_get_pos_lpib (err 0)
+[65383.423862] snd_hda_intel: Unknown symbol snd_hdac_i915_init (err 0)
+[65383.423876] snd_hda_intel: Unknown symbol snd_hda_unlock_devices (err 0)
+[65383.423885] snd_hda_intel: Unknown symbol azx_get_pos_posbuf (err 0)
+[65383.423894] snd_hda_intel: Unknown symbol azx_bus_init (err 0)
+[65383.423902] snd_hda_intel: Unknown symbol azx_free_streams (err 0)
+[65383.423911] snd_hda_intel: Unknown symbol snd_hda_load_patch (err 0)
+[65383.423919] snd_hda_intel: Unknown symbol azx_init_chip (err 0)
+[65383.423927] snd_hda_intel: Unknown symbol snd_hdac_display_power (err 0)
+[65383.423940] snd_hda_intel: Unknown symbol snd_hda_set_power_save (err 0)
+[65383.423948] snd_hda_intel: Unknown symbol azx_stop_chip (err 0)
+[65383.423955] snd_hda_intel: Unknown symbol snd_hdac_bus_parse_capabilities (err 0)
+[65383.423970] snd_hda_intel: Unknown symbol azx_codec_configure (err 0)
+[65383.423978] snd_hda_intel: Unknown symbol snd_hdac_set_codec_wakeup (err 0)
+[65383.423987] snd_hda_intel: Unknown symbol snd_hdac_bus_alloc_stream_pages (err 0)
+[65383.423994] snd_hda_intel: Unknown symbol snd_hdac_i915_exit (err 0)
+[65383.424002] snd_hda_intel: Unknown symbol snd_hda_lock_devices (err 0)
+[65383.424011] snd_hda_intel: Unknown symbol azx_interrupt (err 0)
+[65383.424019] snd_hda_intel: Unknown symbol snd_hdac_i915_set_bclk (err 0)
+[65442.399442] snd_hda_intel: Unknown symbol azx_probe_codecs (err 0)
+[65442.399469] snd_hda_intel: Unknown symbol azx_init_streams (err 0)
+[65442.399508] snd_hda_intel: Unknown symbol azx_stop_all_streams (err 0)
+[65442.399532] snd_hda_intel: Unknown symbol azx_get_pos_lpib (err 0)
+[65442.399570] snd_hda_intel: Unknown symbol snd_hda_unlock_devices (err 0)
+[65442.399588] snd_hda_intel: Unknown symbol azx_get_pos_posbuf (err 0)
+[65442.399606] snd_hda_intel: Unknown symbol azx_bus_init (err 0)
+[65442.399622] snd_hda_intel: Unknown symbol azx_free_streams (err 0)
+[65442.399639] snd_hda_intel: Unknown symbol snd_hda_load_patch (err 0)
+[65442.399654] snd_hda_intel: Unknown symbol azx_init_chip (err 0)
+[65442.399685] snd_hda_intel: Unknown symbol snd_hda_set_power_save (err 0)
+[65442.399699] snd_hda_intel: Unknown symbol azx_stop_chip (err 0)
+[65442.399730] snd_hda_intel: Unknown symbol azx_codec_configure (err 0)
+[65442.399756] snd_hda_intel: Unknown symbol snd_hda_lock_devices (err 0)
+[65442.399774] snd_hda_intel: Unknown symbol azx_interrupt (err 0)
+[65517.922627] snd_hda_intel: Unknown symbol azx_probe_codecs (err 0)
+[65517.922659] snd_hda_intel: Unknown symbol azx_init_streams (err 0)
+[65517.922707] snd_hda_intel: Unknown symbol azx_stop_all_streams (err 0)
+[65517.922737] snd_hda_intel: Unknown symbol azx_get_pos_lpib (err 0)
+[65517.922783] snd_hda_intel: Unknown symbol snd_hda_unlock_devices (err 0)
+[65517.922806] snd_hda_intel: Unknown symbol azx_get_pos_posbuf (err 0)
+[65517.922828] snd_hda_intel: Unknown symbol azx_bus_init (err 0)
+[65517.922848] snd_hda_intel: Unknown symbol azx_free_streams (err 0)
+[65517.922869] snd_hda_intel: Unknown symbol snd_hda_load_patch (err 0)
+[65517.922888] snd_hda_intel: Unknown symbol azx_init_chip (err 0)
+[65517.922925] snd_hda_intel: Unknown symbol snd_hda_set_power_save (err 0)
+[65517.922943] snd_hda_intel: Unknown symbol azx_stop_chip (err 0)
+[65517.922981] snd_hda_intel: Unknown symbol azx_codec_configure (err 0)
+[65517.923014] snd_hda_intel: Unknown symbol snd_hda_lock_devices (err 0)
+[65517.923037] snd_hda_intel: Unknown symbol azx_interrupt (err 0)
+[65517.922627] snd_hda_intel: Unknown symbol azx_probe_codecs (err 0)
+[65517.922659] snd_hda_intel: Unknown symbol azx_init_streams (err 0)
+[65517.922707] snd_hda_intel: Unknown symbol azx_stop_all_streams (err 0)
+[65517.922737] snd_hda_intel: Unknown symbol azx_get_pos_lpib (err 0)
+[65517.922783] snd_hda_intel: Unknown symbol snd_hda_unlock_devices (err 0)
+[65517.922806] snd_hda_intel: Unknown symbol azx_get_pos_posbuf (err 0)
+[65517.922828] snd_hda_intel: Unknown symbol azx_bus_init (err 0)
+[65517.922848] snd_hda_intel: Unknown symbol azx_free_streams (err 0)
+[65517.922869] snd_hda_intel: Unknown symbol snd_hda_load_patch (err 0)
+[65517.922888] snd_hda_intel: Unknown symbol azx_init_chip (err 0)
+[65517.922925] snd_hda_intel: Unknown symbol snd_hda_set_power_save (err 0)
+[65517.922943] snd_hda_intel: Unknown symbol azx_stop_chip (err 0)
+[65517.922981] snd_hda_intel: Unknown symbol azx_codec_configure (err 0)
+[65517.923014] snd_hda_intel: Unknown symbol snd_hda_lock_devices (err 0)
+[65517.923037] snd_hda_intel: Unknown symbol azx_interrupt (err 0)
+[65568.287928] snd_hda_codec: Unknown symbol snd_hwdep_new (err 0)
+[65913.857148] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[65913.865844] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input22
+[65913.868863] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[65913.869399] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[65913.869401] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[65913.869402] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[65913.869403] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[65913.869404] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[65913.869406] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[65913.869407] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[65913.876046] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input23
+[65913.876102] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input24
+[65913.876144] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input25
+[65913.876190] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input26
+[65913.857148] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[65913.865844] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input22
+[65913.868863] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[65913.869399] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[65913.869401] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[65913.869402] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[65913.869403] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[65913.869404] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[65913.869406] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[65913.869407] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[65913.876046] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input23
+[65913.876102] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input24
+[65913.876144] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input25
+[65913.876190] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input26
+[73515.138574] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[73515.145677] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[73515.146370] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[73515.146373] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[73515.146375] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[73515.146376] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[73515.146378] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[73515.146380] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[73515.146381] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[73515.153067] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input27
+[73515.153727] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input28
+[73515.153825] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input29
+[73515.153902] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input30
+[73515.153987] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input31
+[73515.138574] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[73515.145677] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[73515.146370] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[73515.146373] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[73515.146375] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[73515.146376] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[73515.146378] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[73515.146380] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[73515.146381] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[73515.153067] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input27
+[73515.153727] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input28
+[73515.153825] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input29
+[73515.153902] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input30
+[73515.153987] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input31
+[76950.414112] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[76950.417769] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input32
+[76950.421628] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[76950.422171] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[76950.422175] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[76950.422177] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[76950.422179] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[76950.422181] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[76950.422184] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[76950.422186] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[76950.429506] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input33
+[76950.429551] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input34
+[76950.429592] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input35
+[76950.429628] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input36
+[76950.414112] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[76950.417769] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input32
+[76950.421628] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[76950.422171] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[76950.422175] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[76950.422177] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[76950.422179] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[76950.422181] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[76950.422184] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[76950.422186] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[76950.429506] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input33
+[76950.429551] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input34
+[76950.429592] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input35
+[76950.429628] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input36
+[76963.299043] snd_hda_codec_realtek hdaudioC0D0: playback_pcm_open: ...
+[76950.414112] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[76950.417769] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input32
+[76950.421628] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[76950.422171] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[76950.422175] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[76950.422177] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[76950.422179] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[76950.422181] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[76950.422184] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[76950.422186] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[76950.429506] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input33
+[76950.429551] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input34
+[76950.429592] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input35
+[76950.429628] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input36
+[76963.299043] snd_hda_codec_realtek hdaudioC0D0: playback_pcm_open: ...
+[86292.196364] snd_hda_intel 0000:01:00.1: Handle vga_switcheroo audio client
+[86292.204177] snd_hda_codec_realtek hdaudioC0D0: ALC269VB: SKU not ready 0x411111f0
+[86292.204769] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC269VB: line_outs=1 (0x1b/0x0/0x0/0x0/0x0) type:line
+[86292.204774] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=1 (0x14/0x0/0x0/0x0/0x0)
+[86292.204778] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[86292.204781] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[86292.204783] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[86292.204787] snd_hda_codec_realtek hdaudioC0D0:      Rear Mic=0x19
+[86292.204790] snd_hda_codec_realtek hdaudioC0D0:      Front Mic=0x18
+[86292.211926] input: HDA ATI HDMI HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/input37
+[86292.211966] input: HDA Intel PCH Rear Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input38
+[86292.212013] input: HDA Intel PCH Front Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input39
+[86292.212093] input: HDA Intel PCH Line Out as /devices/pci0000:00/0000:00:1b.0/sound/card0/input40
+[86292.212179] input: HDA Intel PCH Front Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input41
+[86341.298595] snd_hda_intel 0000:00:1b.0: azx_pcm_open: ...
+[86341.298605] snd_hda_codec_realtek hdaudioC0D0: playback_pcm_open: ...
+[86362.059781] snd_hda_intel 0000:00:1b.0: azx_pcm_close: ...
