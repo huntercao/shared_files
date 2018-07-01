@@ -1,0 +1,44 @@
+  NetworkManager-837   [001] .... 30255.727745: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30255.727823: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30255.727965: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30255.727987: module_put: cfg80211 call_site=netlink_dump refcnt=4
+           aplay-6815  [001] .... 30259.754489: module_get: snd call_site=cdev_get refcnt=10
+           aplay-6815  [001] .... 30259.754495: module_get: snd call_site=chrdev_open refcnt=11
+           aplay-6815  [001] .... 30259.754496: module_get: snd call_site=snd_open [snd] refcnt=12
+           aplay-6815  [001] .... 30259.754497: module_put: snd call_site=snd_open [snd] refcnt=11
+           aplay-6815  [001] .... 30259.754498: module_get: snd_hda_intel call_site=snd_ctl_open [snd] refcnt=2
+           aplay-6815  [001] .... 30259.754508: module_put: snd_hda_intel call_site=snd_ctl_release [snd] refcnt=1
+           aplay-6815  [001] .... 30259.754508: module_put: snd call_site=cdev_put.part.3 refcnt=10
+           aplay-6815  [001] .... 30259.754509: module_put: snd call_site=__fput refcnt=9
+           aplay-6815  [001] .... 30259.754512: module_get: snd call_site=cdev_get refcnt=10
+           aplay-6815  [001] .... 30259.754513: module_get: snd call_site=chrdev_open refcnt=11
+           aplay-6815  [001] .... 30259.754513: module_get: snd call_site=snd_open [snd] refcnt=12
+           aplay-6815  [001] .... 30259.754513: module_put: snd call_site=snd_open [snd] refcnt=11
+           aplay-6815  [001] .... 30259.754513: module_get: snd_hda_intel call_site=snd_ctl_open [snd] refcnt=2
+           aplay-6815  [001] .... 30259.754520: module_get: snd call_site=cdev_get refcnt=12
+           aplay-6815  [001] .... 30259.754520: module_get: snd call_site=chrdev_open refcnt=13
+           aplay-6815  [001] .... 30259.754521: module_get: snd_pcm call_site=snd_open [snd] refcnt=6
+           aplay-6815  [001] .... 30259.754521: module_put: snd call_site=snd_open [snd] refcnt=12
+           aplay-6815  [001] .... 30259.754522: module_get: snd_hda_intel call_site=snd_pcm_open [snd_pcm] refcnt=3
+           aplay-6815  [001] .... 30259.754542: module_put: snd_hda_intel call_site=snd_ctl_release [snd] refcnt=2
+           aplay-6815  [001] .... 30259.754542: module_put: snd call_site=cdev_put.part.3 refcnt=11
+           aplay-6815  [001] .... 30259.754542: module_put: snd call_site=__fput refcnt=10
+  NetworkManager-837   [001] .... 30261.727088: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30261.727176: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30261.727508: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30261.727574: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30267.727284: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30267.727348: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30267.727484: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30267.727521: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30273.723879: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30273.723924: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30273.724104: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30273.724139: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30279.726652: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30279.726716: module_put: cfg80211 call_site=netlink_dump refcnt=4
+  NetworkManager-837   [001] .... 30279.726847: module_get: cfg80211 call_site=__netlink_dump_start refcnt=5
+  NetworkManager-837   [001] .... 30279.726877: module_put: cfg80211 call_site=netlink_dump refcnt=4
+           aplay-6815  [003] .... 30280.513730: module_put: snd_hda_intel call_site=snd_pcm_release [snd_pcm] refcnt=1
+           aplay-6815  [003] .... 30280.513821: module_put: snd call_site=cdev_put.part.3 refcnt=9
+           aplay-6815  [003] .... 30280.513822: module_put: snd_pcm call_site=__fput refcnt=5
