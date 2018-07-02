@@ -1,0 +1,2205 @@
+[321918.579496] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.579507] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321918.579510] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321918.579514] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321918.579518] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321918.664537] snd_hda_intel 0000:00:1b.0: stream_update...
+[321918.664544] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.664555] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321918.664558] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321918.664561] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321918.664633] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321918.664643] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321918.664649] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.664659] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321918.664664] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321918.664668] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321918.664672] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321918.750539] snd_hda_intel 0000:00:1b.0: stream_update...
+[321918.750547] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.750560] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321918.750563] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321918.750566] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321918.750630] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321918.750644] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321918.750650] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.750660] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321918.750664] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321918.750668] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321918.750672] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321918.835713] snd_hda_intel 0000:00:1b.0: stream_update...
+[321918.835721] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.835732] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321918.835735] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321918.835738] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321918.835794] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321918.835797] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321918.835800] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.835821] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321918.835827] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321918.835837] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321918.835839] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321918.920850] snd_hda_intel 0000:00:1b.0: stream_update...
+[321918.920858] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.920870] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321918.920873] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321918.920876] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321918.920935] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321918.920939] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321918.920942] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321918.920950] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321918.920953] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321918.920956] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321918.920959] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321919.005842] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.005850] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.005861] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321919.005864] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321919.005867] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321919.005921] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.005925] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.005928] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.005937] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321919.005940] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321919.005942] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321919.005949] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321919.091708] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.091716] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.091727] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321919.091730] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321919.091733] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321919.091789] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.091793] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.091796] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.091805] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321919.091813] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321919.091825] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321919.091832] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321919.176819] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.176826] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.176835] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321919.176838] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321919.176841] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321919.176888] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.176892] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.176895] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.176906] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321919.176913] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321919.176925] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321919.176934] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321919.261868] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.261875] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.261886] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321919.261889] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321919.261892] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321919.261945] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.261948] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.261951] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.261958] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321919.261967] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321919.261979] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321919.261986] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321919.347707] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.347714] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.347724] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321919.347727] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321919.347730] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321919.347781] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.347785] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.347788] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.347797] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321919.347806] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321919.347818] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321919.347826] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321919.432875] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.432882] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.432893] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321919.432896] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321919.432899] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321919.432951] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.432955] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.432958] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.432969] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321919.432977] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321919.432989] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321919.432996] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321919.517866] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.517874] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.517884] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321919.517887] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321919.517890] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321919.517945] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.517948] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.517951] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.517958] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321919.517967] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321919.517979] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321919.517986] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321919.603702] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.603710] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.603721] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321919.603724] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321919.603727] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321919.603783] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.603787] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.603794] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.603807] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321919.603816] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321919.603820] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321919.603824] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321919.688818] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.688826] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.688834] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321919.688837] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321919.688840] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321919.688887] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.688890] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.688893] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.688905] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321919.688914] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321919.688925] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321919.688933] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321919.773816] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.773823] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.773831] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321919.773834] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321919.773837] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321919.773883] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.773886] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.773889] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.773898] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321919.773905] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321919.773917] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321919.773926] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321919.859703] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.859711] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.859719] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321919.859722] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321919.859725] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321919.859779] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.859783] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.859789] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.859806] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321919.859809] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321919.859813] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321919.859818] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321919.944837] snd_hda_intel 0000:00:1b.0: stream_update...
+[321919.944845] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.944856] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321919.944859] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321919.944862] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321919.944917] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321919.944925] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321919.944932] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321919.944946] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321919.944951] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321919.944955] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321919.944959] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321920.029864] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.029871] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.029882] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321920.029885] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321920.029888] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321920.029942] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.029946] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.029959] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.029974] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321920.029982] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321920.029986] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321920.029990] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321920.115872] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.115879] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.115890] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321920.115893] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321920.115896] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321920.115953] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.115957] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.115960] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.115974] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321920.115980] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321920.115983] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321920.115991] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321920.201036] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.201043] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.201051] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321920.201054] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321920.201057] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321920.201111] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.201115] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.201118] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.201131] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321920.201140] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321920.201143] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321920.201146] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321920.286147] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.286154] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.286165] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321920.286168] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321920.286171] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321920.286218] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.286221] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.286224] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.286244] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321920.286252] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321920.286258] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321920.286261] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321920.371159] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.371167] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.371179] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321920.371181] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321920.371184] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321920.371245] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.371249] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.371252] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.371260] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321920.371267] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321920.371276] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321920.371288] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321920.457035] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.457043] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.457054] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321920.457057] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321920.457060] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321920.457115] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.457119] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.457122] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.457136] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321920.457144] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321920.457150] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321920.457154] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321920.542194] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.542202] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.542214] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321920.542217] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321920.542220] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321920.542274] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.542277] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.542280] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.542291] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321920.542299] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321920.542311] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321920.542317] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321920.627204] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.627213] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.627225] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321920.627228] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321920.627232] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321920.627292] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.627296] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.627302] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.627317] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321920.627320] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321920.627323] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321920.627331] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321920.713199] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.713206] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.713217] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321920.713220] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321920.713223] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321920.713277] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.713281] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.713284] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.713293] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321920.713302] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321920.713313] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321920.713320] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321920.798367] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.798375] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.798385] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321920.798388] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321920.798391] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321920.798446] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.798450] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.798453] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.798473] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321920.798480] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321920.798486] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321920.798492] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321920.883532] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.883540] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.883551] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321920.883554] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321920.883557] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321920.883612] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.883616] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.883619] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.883628] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321920.883637] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321920.883648] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321920.883655] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321920.968533] snd_hda_intel 0000:00:1b.0: stream_update...
+[321920.968540] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.968550] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321920.968553] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321920.968556] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321920.968608] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321920.968612] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321920.968615] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321920.968626] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321920.968634] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321920.968645] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321920.968653] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321921.054362] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.054369] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.054380] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321921.054383] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321921.054386] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321921.054438] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.054442] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.054445] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.054454] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321921.054462] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321921.054474] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321921.054482] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321921.139498] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.139505] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.139517] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321921.139520] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321921.139523] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321921.139579] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.139582] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.139585] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.139609] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321921.139616] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321921.139625] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321921.139628] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321921.224521] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.224529] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.224539] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321921.224542] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321921.224545] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321921.224597] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.224601] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.224603] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.224618] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321921.224630] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321921.224635] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321921.224639] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321921.310360] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.310367] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.310377] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321921.310380] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321921.310383] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321921.310434] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.310438] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.310440] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.310447] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321921.310456] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321921.310468] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321921.310476] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321921.395531] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.395539] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.395550] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321921.395553] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321921.395556] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321921.395607] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.395611] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.395614] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.395634] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321921.395642] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321921.395652] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321921.395658] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321921.480529] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.480536] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.480544] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321921.480547] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321921.480550] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321921.480602] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.480606] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.480609] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.480619] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321921.480628] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321921.480640] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321921.480646] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321921.566358] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.566365] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.566375] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321921.566378] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321921.566381] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321921.566435] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.566439] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.566442] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.566449] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321921.566457] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321921.566468] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321921.566477] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321921.651526] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.651533] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.651541] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321921.651544] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321921.651547] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321921.651599] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.651603] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.651606] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.651616] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321921.651625] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321921.651636] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321921.651642] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321921.736525] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.736532] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.736542] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321921.736545] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321921.736549] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321921.736604] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.736607] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.736610] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.736624] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321921.736632] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321921.736640] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321921.736645] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321921.822356] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.822363] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.822373] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321921.822376] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321921.822379] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321921.822432] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.822435] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.822438] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.822446] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321921.822454] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321921.822461] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321921.822472] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321921.907525] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.907533] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.907540] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321921.907543] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321921.907546] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321921.907600] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.907603] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.907606] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.907622] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321921.907632] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321921.907637] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321921.907641] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321921.992525] snd_hda_intel 0000:00:1b.0: stream_update...
+[321921.992532] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.992542] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321921.992545] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321921.992548] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321921.992600] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321921.992604] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321921.992607] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321921.992624] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321921.992633] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321921.992638] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321921.992642] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321922.078526] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.078535] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.078543] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321922.078546] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321922.078549] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321922.078607] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.078611] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.078618] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.078631] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321922.078634] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321922.078637] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321922.078645] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321922.163693] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.163701] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.163711] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321922.163714] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321922.163717] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321922.163771] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.163774] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.163777] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.163797] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321922.163803] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321922.163810] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321922.163821] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321922.248868] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.248876] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.248889] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321922.248892] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321922.248895] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321922.248949] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.248953] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.248969] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.248981] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321922.248984] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321922.248986] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321922.248989] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321922.334001] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.334008] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.334019] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321922.334022] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321922.334025] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321922.334080] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.334084] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.334087] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.334102] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321922.334112] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321922.334115] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321922.334120] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321922.419855] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.419862] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.419873] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321922.419876] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321922.419879] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321922.419933] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.419937] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.419939] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.419949] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321922.419958] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321922.419970] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321922.419976] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321922.505022] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.505029] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.505039] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321922.505042] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321922.505045] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321922.505097] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.505100] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.505103] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.505116] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321922.505125] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321922.505134] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321922.505138] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321922.590179] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.590187] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.590194] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321922.590197] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321922.590200] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321922.590253] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.590257] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.590259] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.590268] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321922.590277] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321922.590289] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321922.590296] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321922.675186] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.675194] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.675204] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321922.675207] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321922.675210] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321922.675263] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.675267] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.675269] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.675291] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321922.675297] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321922.675307] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321922.675314] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321922.761020] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.761027] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.761038] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321922.761041] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321922.761044] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321922.761097] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.761100] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.761104] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.761119] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321922.761128] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321922.761133] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321922.761137] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321922.846181] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.846189] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.846199] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321922.846202] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321922.846205] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321922.846259] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.846262] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.846265] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.846274] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321922.846282] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321922.846294] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321922.846302] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321922.931187] snd_hda_intel 0000:00:1b.0: stream_update...
+[321922.931195] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.931205] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321922.931208] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321922.931211] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321922.931264] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321922.931268] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321922.931270] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321922.931281] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321922.931290] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321922.931302] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321922.931308] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321923.017020] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.017027] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.017038] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321923.017041] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321923.017044] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321923.017097] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.017100] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.017103] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.017113] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321923.017122] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321923.017134] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321923.017140] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321923.102162] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.102171] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.102183] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321923.102186] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321923.102189] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321923.102249] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.102259] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.102275] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.102285] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321923.102288] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321923.102293] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321923.102296] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321923.187352] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.187361] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.187372] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321923.187375] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321923.187378] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321923.187437] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.187441] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.187448] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.187462] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321923.187465] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321923.187468] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321923.187476] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321923.272485] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.272494] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.272505] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321923.272508] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321923.272511] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321923.272570] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.272581] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.272588] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.272603] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321923.272607] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321923.272611] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321923.272615] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321923.358352] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.358360] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.358371] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321923.358374] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321923.358377] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321923.358435] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.358438] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.358442] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.358456] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321923.358465] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321923.358469] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321923.358473] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321923.443516] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.443523] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.443533] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321923.443536] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321923.443539] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321923.443591] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.443595] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.443598] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.443607] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321923.443616] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321923.443628] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321923.443636] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321923.528507] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.528515] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.528526] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321923.528529] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321923.528532] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321923.528584] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.528587] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.528590] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.528600] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321923.528608] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321923.528619] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321923.528626] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321923.614348] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.614355] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.614363] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321923.614366] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321923.614369] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321923.614425] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.614428] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.614431] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.614445] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321923.614453] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321923.614461] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321923.614466] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321923.699513] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.699520] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.699531] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321923.699534] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321923.699537] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321923.699591] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.699594] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.699597] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.699608] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321923.699617] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321923.699629] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321923.699636] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321923.784514] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.784521] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.784532] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321923.784535] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321923.784537] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321923.784590] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.784593] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.784596] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.784605] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321923.784613] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321923.784625] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321923.784633] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321923.870345] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.870353] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.870360] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321923.870363] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321923.870366] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321923.870427] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.870441] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.870449] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.870460] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321923.870464] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321923.870469] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321923.870473] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321923.955515] snd_hda_intel 0000:00:1b.0: stream_update...
+[321923.955522] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.955533] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321923.955536] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321923.955539] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321923.955609] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321923.955620] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321923.955625] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321923.955636] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321923.955640] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321923.955644] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321923.955648] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321924.040677] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.040684] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.040695] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321924.040698] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321924.040701] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321924.040759] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.040769] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.040778] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.040792] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321924.040796] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321924.040801] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321924.040805] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321924.125839] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.125847] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.125857] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321924.125860] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321924.125863] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321924.125927] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.125938] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.125944] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.125955] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321924.125959] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321924.125964] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321924.125968] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321924.211807] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.211815] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.211825] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321924.211828] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321924.211831] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321924.211891] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.211905] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.211912] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.211924] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321924.211928] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321924.211933] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321924.211937] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321924.297013] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.297021] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.297031] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321924.297034] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321924.297037] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321924.297095] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.297108] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.297116] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.297127] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321924.297131] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321924.297135] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321924.297139] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321924.382182] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.382189] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.382199] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321924.382202] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321924.382204] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321924.382276] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.382287] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.382293] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.382303] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321924.382307] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321924.382311] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321924.382316] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321924.467346] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.467355] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.467367] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321924.467370] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321924.467373] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321924.467449] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.467460] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.467463] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.467474] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321924.467477] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321924.467481] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321924.467485] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321924.552511] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.552519] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.552530] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321924.552533] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321924.552536] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321924.552597] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.552611] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.552617] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.552629] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321924.552633] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321924.552637] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321924.552641] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321924.638510] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.638518] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.638529] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321924.638532] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321924.638534] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321924.638591] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.638605] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.638613] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.638623] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321924.638628] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321924.638632] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321924.638636] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321924.723674] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.723681] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.723692] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321924.723695] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321924.723698] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321924.723756] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.723768] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.723776] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.723788] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321924.723792] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321924.723797] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321924.723801] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321924.808840] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.808847] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.808858] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321924.808861] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321924.808864] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321924.808921] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.808935] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.808943] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.808954] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321924.808959] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321924.808963] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321924.808968] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321924.893977] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.893985] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.893995] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321924.893998] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321924.894001] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321924.894058] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.894071] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.894079] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.894089] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321924.894094] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321924.894098] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321924.894102] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321924.979840] snd_hda_intel 0000:00:1b.0: stream_update...
+[321924.979848] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.979858] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321924.979861] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321924.979864] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321924.979928] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321924.979939] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321924.979945] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321924.979956] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321924.979960] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321924.979964] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321924.979969] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321925.065009] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.065017] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.065028] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321925.065031] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321925.065034] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321925.065095] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.065109] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.065115] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.065126] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321925.065130] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321925.065134] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321925.065138] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321925.150166] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.150174] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.150184] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321925.150187] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321925.150190] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321925.150265] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.150275] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.150280] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.150291] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321925.150295] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321925.150299] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321925.150304] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321925.235329] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.235336] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.235347] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321925.235350] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321925.235353] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321925.235410] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.235419] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.235429] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.235443] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321925.235447] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321925.235451] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321925.235456] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321925.320505] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.320513] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.320520] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321925.320523] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321925.320526] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321925.320584] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.320597] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.320605] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.320615] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321925.320620] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321925.320624] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321925.320629] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321925.406502] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.406510] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.406520] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321925.406523] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321925.406526] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321925.406584] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.406598] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.406606] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.406617] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321925.406622] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321925.406626] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321925.406630] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321925.491664] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.491672] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.491682] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321925.491685] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321925.491688] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321925.491750] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.491761] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.491767] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.491778] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321925.491782] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321925.491787] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321925.491791] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321925.576837] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.576845] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.576853] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321925.576856] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321925.576859] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321925.576919] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.576932] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.576940] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.576951] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321925.576956] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321925.576960] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321925.576965] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321925.661977] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.661985] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.661995] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321925.661998] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321925.662001] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321925.662060] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.662073] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.662081] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.662091] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321925.662096] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321925.662100] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321925.662104] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321925.747838] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.747848] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.747859] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321925.747862] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321925.747865] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321925.747931] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.747953] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.747957] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.747964] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321925.747966] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321925.747968] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321925.747971] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321925.833015] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.833022] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.833032] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321925.833034] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321925.833037] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321925.833093] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.833112] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.833120] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.833135] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321925.833139] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321925.833144] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321925.833148] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321925.918159] snd_hda_intel 0000:00:1b.0: stream_update...
+[321925.918166] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.918174] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321925.918177] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321925.918180] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321925.918239] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321925.918260] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321925.918268] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321925.918279] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321925.918283] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321925.918287] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321925.918292] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321926.003336] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.003343] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.003354] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321926.003357] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321926.003360] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321926.003418] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.003441] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.003448] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.003458] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321926.003462] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321926.003466] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321926.003470] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321926.088492] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.088500] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.088511] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321926.088514] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321926.088517] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321926.088582] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.088592] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.088599] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.088610] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321926.088614] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321926.088619] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321926.088623] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321926.174500] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.174507] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.174515] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321926.174518] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321926.174521] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321926.174584] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.174597] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.174605] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.174617] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321926.174621] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321926.174625] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321926.174630] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321926.259667] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.259674] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.259684] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321926.259687] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321926.259691] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321926.259751] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.259765] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.259772] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.259783] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321926.259787] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321926.259792] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321926.259796] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321926.344832] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.344840] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.344851] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321926.344854] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321926.344857] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321926.344916] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.344930] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.344938] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.344949] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321926.344954] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321926.344958] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321926.344962] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321926.429973] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.429980] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.429991] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321926.429994] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321926.429997] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321926.430053] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.430067] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.430075] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.430087] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321926.430091] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321926.430095] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321926.430099] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321926.515817] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.515825] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.515836] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321926.515838] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321926.515841] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321926.515900] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.515913] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.515921] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.515931] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8080
+[321926.515935] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2020
+[321926.515940] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2020
+[321926.515944] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321926.600998] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.601006] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.601017] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321926.601020] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321926.601023] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321926.601082] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.601094] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.601103] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.601113] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321926.601118] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321926.601123] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321926.601127] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321926.686154] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.686162] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.686170] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321926.686173] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321926.686176] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321926.686235] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.686246] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.686252] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.686263] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321926.686268] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321926.686272] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321926.686276] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321926.771328] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.771335] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.771346] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321926.771349] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321926.771352] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321926.771411] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.771425] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.771432] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.771443] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4024
+[321926.771448] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1009
+[321926.771452] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1009
+[321926.771457] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321926.856495] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.856503] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.856513] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321926.856516] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321926.856519] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321926.856580] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.856592] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.856601] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.856612] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321926.856616] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321926.856620] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321926.856625] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321926.942494] snd_hda_intel 0000:00:1b.0: stream_update...
+[321926.942501] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.942512] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321926.942515] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321926.942517] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321926.942575] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321926.942589] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321926.942596] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321926.942608] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321926.942612] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321926.942616] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321926.942621] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321927.027663] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.027670] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.027680] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321927.027683] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321927.027686] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321927.027743] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.027757] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.027764] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.027775] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321927.027780] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321927.027784] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321927.027789] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321927.112824] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.112832] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.112843] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321927.112846] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321927.112849] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321927.112908] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.112921] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.112929] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.112940] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321927.112944] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321927.112949] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321927.112953] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321927.197968] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.197976] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.197986] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321927.197989] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321927.197992] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321927.198054] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.198067] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.198075] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.198086] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321927.198090] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321927.198094] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321927.198099] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321927.283824] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.283832] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.283842] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321927.283845] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321927.283848] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321927.283910] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.283921] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.283927] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.283938] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc080
+[321927.283942] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3020
+[321927.283947] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3020
+[321927.283951] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321927.368993] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.369000] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.369010] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321927.369013] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321927.369016] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321927.369072] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.369086] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.369094] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.369105] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321927.369109] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321927.369114] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321927.369118] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321927.454152] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.454159] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.454169] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321927.454172] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321927.454175] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321927.454233] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.454247] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.454254] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.454265] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321927.454270] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321927.454274] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321927.454278] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321927.539325] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.539332] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.539340] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321927.539343] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321927.539345] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321927.539404] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.539418] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.539426] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.539437] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8024
+[321927.539441] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2009
+[321927.539445] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2009
+[321927.539450] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321927.624490] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.624498] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.624508] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321927.624511] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321927.624514] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321927.624572] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.624585] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.624593] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.624604] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321927.624609] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321927.624613] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321927.624617] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321927.710489] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.710496] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.710506] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321927.710509] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321927.710512] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321927.710571] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.710593] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.710600] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.710611] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321927.710615] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321927.710619] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321927.710623] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321927.795656] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.795663] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.795671] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321927.795674] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321927.795676] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321927.795734] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.795756] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.795763] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.795774] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321927.795779] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321927.795783] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321927.795787] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321927.880822] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.880829] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.880839] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321927.880842] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321927.880845] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321927.880904] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.880915] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.880922] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.880933] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321927.880937] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321927.880941] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321927.880946] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321927.965965] snd_hda_intel 0000:00:1b.0: stream_update...
+[321927.965972] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.965982] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321927.965985] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321927.965988] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321927.966044] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321927.966067] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321927.966074] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321927.966084] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321927.966089] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321927.966093] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321927.966097] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321928.051820] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.051828] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.051838] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321928.051841] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321928.051844] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321928.051901] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.051915] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.051923] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.051934] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321928.051938] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321928.051942] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321928.051947] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321928.136988] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.136995] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.137005] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321928.137008] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321928.137011] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321928.137071] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.137085] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.137093] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.137104] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321928.137109] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321928.137113] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321928.137117] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321928.222147] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.222154] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.222165] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321928.222168] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321928.222171] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321928.222230] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.222244] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.222252] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.222263] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321928.222267] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321928.222272] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321928.222276] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321928.307323] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.307330] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.307341] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321928.307345] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321928.307347] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321928.307406] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.307419] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.307427] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.307438] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321928.307443] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321928.307447] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321928.307452] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321928.392486] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.392493] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.392503] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321928.392506] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321928.392509] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321928.392566] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.392580] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.392588] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.392599] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321928.392604] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321928.392608] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321928.392612] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321928.478484] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.478491] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.478502] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321928.478505] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321928.478507] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321928.478567] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.478578] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.478585] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.478595] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321928.478600] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321928.478604] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321928.478609] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321928.563650] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.563659] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.563669] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321928.563672] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321928.563675] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321928.563734] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.563751] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.563759] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.563769] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321928.563773] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321928.563777] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321928.563782] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321928.648818] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.648826] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.648836] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321928.648839] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321928.648842] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321928.648900] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.648914] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.648922] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.648933] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321928.648937] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321928.648941] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321928.648946] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321928.733957] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.733964] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.733975] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321928.733978] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321928.733980] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321928.734038] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.734051] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.734059] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.734070] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321928.734075] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321928.734079] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321928.734084] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321928.819814] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.819821] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.819831] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321928.819834] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321928.819837] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321928.819894] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.819908] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.819915] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.819927] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321928.819931] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321928.819936] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321928.819940] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321928.904981] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.904988] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.904999] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321928.905002] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321928.905005] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321928.905057] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.905061] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.905064] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.905072] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321928.905081] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321928.905093] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321928.905099] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321928.990143] snd_hda_intel 0000:00:1b.0: stream_update...
+[321928.990150] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.990161] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321928.990164] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321928.990167] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321928.990220] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321928.990223] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321928.990226] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321928.990235] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321928.990244] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321928.990256] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321928.990262] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321929.075116] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.075124] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.075131] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321929.075134] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321929.075137] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321929.075190] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.075194] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.075197] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.075205] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321929.075208] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321929.075211] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321929.075219] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321929.160981] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.160988] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.160999] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321929.161002] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321929.161005] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321929.161058] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.161062] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.161064] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.161074] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321929.161083] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321929.161094] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321929.161099] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321929.246142] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.246149] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.246159] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321929.246162] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321929.246165] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321929.246217] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.246220] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.246223] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.246232] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321929.246241] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321929.246251] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321929.246259] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321929.331147] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.331154] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.331162] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321929.331165] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321929.331168] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321929.331222] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.331226] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.331229] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.331240] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321929.331248] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321929.331259] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321929.331262] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321929.416980] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.416987] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.416998] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321929.417001] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321929.417004] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321929.417056] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.417060] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.417063] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.417072] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321929.417081] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321929.417091] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321929.417099] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321929.502138] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.502145] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.502153] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321929.502156] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321929.502159] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321929.502212] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.502216] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.502219] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.502238] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321929.502246] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321929.502256] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321929.502262] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321929.587146] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.587153] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.587164] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321929.587168] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321929.587170] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321929.587223] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.587227] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.587229] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.587240] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321929.587248] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321929.587260] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321929.587267] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321929.672976] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.672983] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.672993] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321929.672996] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321929.672999] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321929.673050] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.673054] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.673056] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.673065] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321929.673074] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321929.673086] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321929.673092] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321929.758137] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.758144] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.758155] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321929.758158] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321929.758161] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321929.758214] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.758217] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.758220] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.758240] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321929.758246] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321929.758256] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321929.758263] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321929.843110] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.843117] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.843127] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321929.843130] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321929.843133] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321929.843186] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.843194] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.843203] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.843218] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321929.843222] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321929.843227] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321929.843231] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321929.928978] snd_hda_intel 0000:00:1b.0: stream_update...
+[321929.928985] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.928995] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321929.928998] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321929.929001] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321929.929054] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321929.929057] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321929.929060] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321929.929070] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321929.929079] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321929.929089] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321929.929095] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321930.014134] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.014141] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.014148] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321930.014151] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321930.014154] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321930.014205] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.014209] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.014212] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.014225] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321930.014237] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321930.014242] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321930.014245] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321930.099141] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.099148] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.099159] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321930.099162] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321930.099165] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321930.099220] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.099224] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.099226] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.099237] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321930.099245] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321930.099257] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321930.099262] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321930.184974] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.184981] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.184992] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321930.184995] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321930.184998] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321930.185051] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.185054] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.185057] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.185068] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321930.185076] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321930.185088] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321930.185093] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321930.270134] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.270141] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.270152] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321930.270155] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321930.270158] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321930.270211] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.270214] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.270217] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.270227] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321930.270236] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321930.270247] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321930.270254] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321930.355142] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.355149] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.355160] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321930.355164] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321930.355167] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321930.355220] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.355224] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.355227] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.355246] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321930.355254] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321930.355264] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321930.355270] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321930.440974] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.440981] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.440992] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321930.440995] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321930.440998] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321930.441051] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.441055] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.441057] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.441068] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321930.441076] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321930.441088] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321930.441093] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321930.526134] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.526141] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.526151] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321930.526154] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321930.526157] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321930.526210] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.526214] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.526216] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.526225] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321930.526234] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321930.526246] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321930.526252] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321930.611140] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.611147] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.611158] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321930.611161] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321930.611164] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321930.611216] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.611220] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.611223] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.611232] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321930.611241] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321930.611253] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321930.611259] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321930.696972] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.696988] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.696997] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321930.697000] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321930.697003] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321930.697049] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.697052] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.697055] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.697074] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321930.697082] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321930.697093] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321930.697098] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321930.782132] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.782139] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.782149] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321930.782152] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321930.782155] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321930.782206] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.782210] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.782213] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.782230] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321930.782238] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321930.782241] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321930.782244] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321930.867137] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.867144] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.867155] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321930.867158] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321930.867161] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321930.867214] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.867217] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.867220] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.867234] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321930.867245] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321930.867248] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321930.867251] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321930.952968] snd_hda_intel 0000:00:1b.0: stream_update...
+[321930.952975] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.952986] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321930.952989] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321930.952992] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321930.953044] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321930.953048] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321930.953051] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321930.953065] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321930.953076] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321930.953079] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321930.953082] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321931.038129] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.038136] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.038147] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321931.038150] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321931.038153] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321931.038203] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.038206] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.038209] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.038219] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321931.038228] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321931.038239] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321931.038246] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321931.123106] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.123114] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.123124] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321931.123127] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321931.123130] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321931.123185] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.123189] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.123192] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.123202] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321931.123211] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321931.123222] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321931.123227] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321931.208967] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.208974] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.208984] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321931.208987] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321931.208990] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321931.209043] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.209047] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.209050] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.209059] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321931.209067] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321931.209079] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321931.209086] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321931.294128] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.294135] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.294146] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321931.294149] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321931.294152] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321931.294205] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.294208] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.294211] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.294220] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321931.294229] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321931.294239] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321931.294247] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321931.379134] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.379141] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.379151] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321931.379154] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321931.379157] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321931.379209] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.379212] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.379215] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.379225] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321931.379234] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321931.379246] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321931.379250] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321931.464966] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.464973] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.464981] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321931.464984] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321931.464987] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321931.465039] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.465042] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.465045] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.465060] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321931.465071] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321931.465073] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321931.465076] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321931.550127] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.550134] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.550143] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321931.550147] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321931.550150] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321931.550202] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.550206] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.550209] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.550223] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321931.550234] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321931.550237] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321931.550240] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321931.635133] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.635140] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.635150] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321931.635153] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321931.635156] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321931.635209] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.635213] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.635216] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.635224] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321931.635233] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321931.635245] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321931.635251] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321931.720966] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.720973] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.720981] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321931.720984] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321931.720987] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321931.721040] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.721043] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.721046] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.721056] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321931.721065] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321931.721076] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321931.721081] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321931.806126] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.806134] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.806144] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321931.806147] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321931.806150] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321931.806203] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.806206] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.806209] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.806219] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321931.806228] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321931.806239] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321931.806242] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321931.891131] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.891138] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.891148] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321931.891151] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321931.891154] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321931.891206] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.891210] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.891212] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.891222] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321931.891231] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321931.891243] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321931.891249] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321931.976906] snd_hda_intel 0000:00:1b.0: stream_update...
+[321931.976913] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.976921] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321931.976924] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321931.976927] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321931.976973] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321931.976976] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321931.976979] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321931.976988] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321931.976990] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321931.976993] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321931.976996] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321932.061938] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.061946] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.061957] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321932.061960] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321932.061963] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321932.062018] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.062022] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.062025] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.062035] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc024
+[321932.062043] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3009
+[321932.062055] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3009
+[321932.062060] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x9
+[321932.147796] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.147803] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.147813] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321932.147816] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321932.147819] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321932.147874] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.147878] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.147881] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.147891] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x80
+[321932.147900] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x20
+[321932.147911] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x20
+[321932.147916] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321932.232961] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.232968] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.232978] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321932.232982] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321932.232984] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321932.233037] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.233041] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.233044] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.233053] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321932.233062] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321932.233074] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321932.233080] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321932.318122] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.318130] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.318140] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321932.318143] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321932.318146] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321932.318199] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.318203] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.318205] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.318216] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321932.318224] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321932.318236] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321932.318241] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321932.403129] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.403136] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.403147] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321932.403150] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321932.403153] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321932.403207] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.403210] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.403213] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.403224] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321932.403231] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321932.403243] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321932.403249] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321932.488959] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.488966] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.488977] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321932.488980] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321932.488983] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321932.489035] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.489039] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.489042] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.489051] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321932.489060] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321932.489071] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321932.489078] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321932.574121] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.574129] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.574139] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321932.574142] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321932.574145] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321932.574199] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.574203] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.574209] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.574226] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321932.574229] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321932.574232] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321932.574235] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321932.659127] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.659134] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.659145] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321932.659148] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321932.659151] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321932.659204] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.659208] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.659211] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.659220] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321932.659228] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321932.659239] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321932.659246] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321932.744958] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.744965] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.744975] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321932.744978] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321932.744981] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321932.745034] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.745037] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.745040] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.745060] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321932.745066] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321932.745077] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321932.745084] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321932.830118] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.830125] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.830136] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321932.830139] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321932.830142] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321932.830194] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.830198] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.830201] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.830211] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x44
+[321932.830219] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x11
+[321932.830231] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x11
+[321932.830238] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321932.915123] snd_hda_intel 0000:00:1b.0: stream_update...
+[321932.915130] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.915138] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321932.915141] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321932.915144] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321932.915196] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321932.915200] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321932.915203] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321932.915212] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4004
+[321932.915221] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1001
+[321932.915232] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1001
+[321932.915239] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321933.000957] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.000965] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.000974] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321933.000977] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321933.000980] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321933.001033] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.001037] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.001040] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.001049] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321933.001058] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321933.001069] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321933.001076] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321933.086117] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.086125] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.086133] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321933.086136] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321933.086139] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321933.086193] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.086197] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.086200] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.086210] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321933.086218] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321933.086230] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321933.086235] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321933.171125] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.171132] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.171139] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321933.171142] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321933.171145] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321933.171200] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.171204] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.171211] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.171227] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321933.171232] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321933.171234] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321933.171237] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321933.257124] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.257131] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.257141] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321933.257144] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321933.257147] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321933.257199] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.257203] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.257206] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.257215] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321933.257224] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321933.257236] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321933.257242] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x20
+[321933.342284] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.342291] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.342301] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321933.342304] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321933.342307] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321933.342357] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.342361] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.342364] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.342377] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8064
+[321933.342387] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2019
+[321933.342390] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2019
+[321933.342393] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321933.427447] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.427454] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.427464] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321933.427468] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321933.427471] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321933.427522] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.427526] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.427529] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.427553] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc044
+[321933.427558] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3011
+[321933.427561] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3011
+[321933.427567] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321933.512457] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.512464] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.512475] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321933.512478] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321933.512481] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321933.512533] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.512536] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.512539] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.512550] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4
+[321933.512558] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1
+[321933.512570] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1
+[321933.512575] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321933.598286] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.598293] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.598304] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321933.598307] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321933.598310] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321933.598362] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.598366] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.598369] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.598379] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4064
+[321933.598386] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1019
+[321933.598398] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1019
+[321933.598404] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321933.683452] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.683460] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.683470] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321933.683473] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321933.683475] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321933.683529] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.683532] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.683535] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.683559] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321933.683569] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321933.683574] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321933.683577] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321933.768453] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.768460] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.768470] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321933.768473] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321933.768476] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321933.768529] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.768533] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.768535] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.768546] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321933.768553] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321933.768565] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321933.768571] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321933.854281] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.854288] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.854299] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321933.854302] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321933.854305] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321933.854357] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.854361] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.854364] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.854375] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x64
+[321933.854387] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x19
+[321933.854393] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x19
+[321933.854396] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x19
+[321933.939451] snd_hda_intel 0000:00:1b.0: stream_update...
+[321933.939458] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.939469] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321933.939472] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321933.939475] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321933.939528] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321933.939531] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321933.939534] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321933.939543] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4044
+[321933.939552] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1011
+[321933.939564] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1011
+[321933.939570] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x11
+[321934.024452] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.024459] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.024469] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321934.024472] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321934.024475] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321934.024529] snd_hda_intel 0000:00:1b.0: snd_pcm_xferi_frames_ioctl xferi.frames = 0x1000
+[321934.024532] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_update_hw_ptr()
+[321934.024535] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.024546] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8004
+[321934.024554] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2001
+[321934.024566] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2001
+[321934.024571] snd_hda_intel 0000:00:1b.0: __snd_pcm_lib_xfer: call snd_pcm_playback_avail(), avail = 0x1
+[321934.110281] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.110288] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.110298] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc064
+[321934.110301] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3019
+[321934.110304] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3019
+[321934.195281] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.195288] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.195299] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x24
+[321934.195302] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x9
+[321934.195305] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x9
+[321934.281118] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.281125] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.281136] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x4080
+[321934.281139] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x1020
+[321934.281142] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x1020
+[321934.366111] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.366118] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.366128] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0x8044
+[321934.366132] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x2011
+[321934.366135] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x2011
+[321934.451115] snd_hda_intel 0000:00:1b.0: stream_update...
+[321934.451122] snd_hda_intel 0000:00:1b.0: azx_get_position...
+[321934.451132] snd_hda_intel 0000:00:1b.0: azx_get_position: pos = 0xc004
+[321934.451135] snd_hda_intel 0000:00:1b.0: azx_pcm_pointer: frames_number = 0x3001
+[321934.451138] snd_hda_intel 0000:00:1b.0: snd_pcm_update_hw_ptr0: pos = 0x3001
+[321934.451142] snd_hda_intel 0000:00:1b.0: azx_pcm_trigger: cmd = 0x0
+[321934.451217] snd_hda_intel 0000:00:1b.0: azx_pcm_hw_free: ...
+[321934.451250] snd_hda_intel 0000:00:1b.0: azx_pcm_close: ...
