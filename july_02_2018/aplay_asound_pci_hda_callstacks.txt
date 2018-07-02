@@ -1,0 +1,114 @@
+List the related call routines for aplay:
+
+cmd: 
+sound_hda$ aplay -D hw:0,0 /home/hunter/github/shared_files/test_signals/wav_files/2ch_48k.wav
+
+aplay:
+./alsa-utils/aplay/aplay.c-2753-static void playback_go(int fd, size_t loaded, off64_t count, int rtype, char *name)
+./alsa-utils/aplay/aplay.c-2754-{
+./alsa-utils/aaplay/aplay.c:2799:		r = pcm_write(audiobuf, l);
+
+./alsa-utils/aplay/aplay.c-2026-static ssize_t pcm_write(u_char *data, size_t count)
+./alsa-utils/aplay/aplay.c-2027-{
+./alsa-utils/aaplay/aplay.c-2040-		r = writei_func(handle, data, count);
+
+./alsa-utils/aplay/aplay.c-469-int main(int argc, char *argv[])
+./alsa-utils/aplay/aplay.c:860:		writei_func = snd_pcm_writei;
+
+./alsa-lib/src/pcm/pcm.c-1468-snd_pcm_sframes_t snd_pcm_writei(snd_pcm_t *pcm, const void *buffer, snd_pcm_uframes_t size)
+./alsa-lib/src/pcm/pcm.c-1469-{
+./alsa-lib/src/pcm/pcm.c:1485:	return _snd_pcm_writei(pcm, buffer, size);
+
+./alsa-lib/src/pcm/pcm_local.h-603-static inline snd_pcm_sframes_t _snd_pcm_writei(snd_pcm_t *pcm, const void *buffer, snd_pcm_uframes_t size)
+./alsa-lib/src/pcm/pcm_local.h-604-{
+./alsa-lib/src/pcm/pcm_local.h-605-	/* lock handled in the callback */
+./alsa-lib/src/pcm/pcm_local.h-606-	return pcm->fast_ops->writei(pcm->fast_op_arg, buffer, size);
+
+./alsa-lib/src/pcm/pcm_hw.c-1451-static const snd_pcm_fast_ops_t snd_pcm_hw_fast_ops = {
+./alsa-lib/src/pcm/pcm_hw.c:1470:	.writei = snd_pcm_hw_writei,
+./alsa-lib/src/pcm/pcm_hw.c-1482-static const snd_pcm_fast_ops_t snd_pcm_hw_fast_ops_timer = {
+./alsa-lib/src/pcm/pcm_hw.c:1501:	.writei = snd_pcm_hw_writei,
+
+./alsa-lib/src/pcm/pcm_hw.c:847:static snd_pcm_sframes_t snd_pcm_hw_writei(snd_pcm_t *pcm, const void *buffer, snd_pcm_uframes_t size)
+./alsa-lib/src/pcm/pcm_hw.c-856-	if (ioctl(fd, SNDRV_PCM_IOCTL_WRITEI_FRAMES, &xferi) < 0)
+
+alsa-driver:
+./core/pcm_native.c-3706-const struct file_operations snd_pcm_f_ops[2] = {
+./core/pcm_native.c:3715:		.unlocked_ioctl =	snd_pcm_ioctl,
+./core/pcm_native.c:3729:		.unlocked_ioctl =	snd_pcm_ioctl,
+
+./core/pcm_native.c:2960:static long snd_pcm_ioctl(struct file *file, unsigned int cmd,
+./core/pcm_native.c-2961-			  unsigned long arg)
+./core/pcm_native.c-2962-{
+./core/pcm_native.c-2970-	return snd_pcm_common_ioctl(file, pcm_file->substream, cmd,
+./core/pcm_native.c-2971-				     (void __user *)arg);
+
+./core/pcm_native.c-2860-static int snd_pcm_common_ioctl(struct file *file,
+./core/pcm_native.c-2861-				 struct snd_pcm_substream *substream,
+./core/pcm_native.c-2862-				 unsigned int cmd, void __user *arg)
+./core/pcm_native.c-2863-{
+./core/pcm_native.c:2945:	case SNDRV_PCM_IOCTL_WRITEI_FRAMES:
+./core/pcm_native.c-2946-	case SNDRV_PCM_IOCTL_READI_FRAMES:
+./core/pcm_native.c-2947-		return snd_pcm_xferi_frames_ioctl(substream, arg);
+
+./core/pcm_native.c:2768:static int snd_pcm_xferi_frames_ioctl(struct snd_pcm_substream *substream,
+./core/pcm_native.c-2769-				      struct snd_xferi __user *_xferi)
+./core/pcm_native.c-2770-{
+./core/pcm_native.c-2784-	if (substream->stream == SNDRV_PCM_STREAM_PLAYBACK)
+./core/pcm_native.c-2785-		result = snd_pcm_lib_write(substream, xferi.buf, xferi.frames);
+./core/pcm_native.c-2786-	else
+./core/pcm_native.c-2787-		result = snd_pcm_lib_read(substream, xferi.buf, xferi.frames);
+
+./include/sound/pcm.h:1095:snd_pcm_lib_writev(struct snd_pcm_substream *substream,
+./include/sound/pcm.h-1096-		   void __user **bufs, snd_pcm_uframes_t frames)
+./include/sound/pcm.h-1097-{
+./include/sound/pcm.h-1098-	return __snd_pcm_lib_xfer(substream, (void *)bufs, false, frames, false);
+./include/sound/pcm.h-1099-}
+
+./core/pcm_lib.c:2115:snd_pcm_sframes_t __snd_pcm_lib_xfer(struct snd_pcm_substream *substream,
+./core/pcm_lib.c-2116-				     void *data, bool interleaved,
+./core/pcm_lib.c-2117-				     snd_pcm_uframes_t size, bool in_kernel)
+./core/pcm_lib.c-2118-{
+
+./core/pcm_lib.c-2186-		snd_pcm_update_hw_ptr(substream);
+
+./core/pcm_lib.c:475:int snd_pcm_update_hw_ptr(struct snd_pcm_substream *substream)
+./core/pcm_lib.c-476-{
+./core/pcm_lib.c:477:	return snd_pcm_update_hw_ptr0(substream, 0);
+./core/pcm_lib.c-478-}
+
+./core/pcm_lib.c-285-	pos = substream->ops->pointer(substream);
+
+./pci/hda/hda_controller.c-724-static const struct snd_pcm_ops azx_pcm_ops = {
+./pci/hda/hda_controller.c:732:	.pointer = azx_pcm_pointer,
+
+Interrupt:
+./pci/hda/hda_intel.c-1771-static int azx_first_init(struct azx *chip)
+./pci/hda/hda_intel.c-1772-{
+./pci/hda/hda_intel.c:1828:	if (azx_acquire_irq(chip, 0) < 0)
+
+./pci/hda/hda_intel.c-839-static int azx_acquire_irq(struct azx *chip, int do_disconnect)
+./pci/hda/hda_intel.c-840-{
+./pci/hda/hda_intel.c:843:	if (request_irq(chip->pci->irq, azx_interrupt,
+./pci/hda/hda_intel.c-844-			chip->msi ? 0 : IRQF_SHARED,
+./pci/hda/hda_intel.c-845-			chip->card->irq_descr, chip)) {
+
+./pci/hda/hda_intel.c-839-static int azx_acquire_irq(struct azx *chip, int do_disconnect)
+./pci/hda/hda_intel.c-840-{
+
+./pci/hda/hda_controller.c-1159-irqreturn_t azx_interrupt(int irq, void *dev_id)
+./pci/hda/hda_controller.c-1160-{
+./pci/hda/hda_controller.c:1185:		if (snd_hdac_bus_handle_stream_irq(bus, status, stream_update))
+./pci/hda/hda_controller.c-1186-			active = true;
+
+./pci/hda/hda_controller.c-1144-static void stream_update(struct hdac_bus *bus, struct hdac_stream *s)
+./pci/hda/hda_controller.c-1145-{
+./pci/hda/hda_controller.c-1154-		snd_pcm_period_elapsed(azx_stream(azx_dev)->substream);
+
+./core/pcm_lib.c:1798:void snd_pcm_period_elapsed(struct snd_pcm_substream *substream)
+./core/pcm_lib.c-1799-{
+./core/pcm_lib.c-1808-	if (!snd_pcm_running(substream) ||
+./core/pcm_lib.c-1809-	    snd_pcm_update_hw_ptr0(substream, 1) < 0)
+./core/pcm_lib.c-1810-		goto _end;
+./core/pcm_lib.c-1811-
+
