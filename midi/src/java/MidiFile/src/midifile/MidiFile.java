@@ -7,6 +7,7 @@ package midifile;
 
 import java.io.*;
 import java.util.*;
+import static javax.management.Query.gt;
 
 /**
  *
@@ -76,12 +77,12 @@ public class MidiFile {
      };
 
   // The collection of events to play, in time order
-  protected Vector&lt;int[]&gt; playEvents;
+  protected Vector<int[]>playEvents;
 
   /** Construct a new MidiFile with an empty playback event list */
   public MidiFile()
   {
-    playEvents = new Vector&lt;int[]&gt;();
+    playEvents = new Vector<int[]>();
   }
 
 
@@ -101,7 +102,7 @@ public class MidiFile {
     int size = tempoEvent.length + keySigEvent.length + timeSigEvent.length
       + footer.length;
 
-    for (int i = 0; i &lt; playEvents.size(); i++)
+    for (int i = 0; i < playEvents.size(); i++)
       size += playEvents.elementAt(i).length;
 
     // Write out the track data size in big-endian format
@@ -122,7 +123,7 @@ public class MidiFile {
     fos.write (intArrayToByteArray (timeSigEvent));
 
     // Write out the note, etc., events
-    for (int i = 0; i &lt; playEvents.size(); i++)
+    for (int i = 0; i < playEvents.size(); i++)
     {
       fos.write (intArrayToByteArray (playEvents.elementAt(i)));
     }
@@ -139,7 +140,7 @@ public class MidiFile {
   {
     int l = ints.length;
     byte[] out = new byte[ints.length];
-    for (int i = 0; i &lt; l; i++)
+    for (int i = 0; i < l; i++)
     {
       out[i] = (byte) ints[i];
     }
@@ -196,11 +197,11 @@ public class MidiFile {
   {
     boolean lastWasRest = false;
     int restDelta = 0;
-    for (int i = 0; i &lt; sequence.length; i += 2)
+    for (int i = 0; i < sequence.length; i += 2)
     {
       int note = sequence[i];
       int duration = sequence[i + 1];
-      if (note &lt; 0)
+      if (note < 0)
       {
         // This is a rest
         restDelta += duration;
