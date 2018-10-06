@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// Code from http://www.kevinboone.net/javamidi.html
+
 package midifile;
 
 import java.io.*;
@@ -45,21 +48,21 @@ public class MidiFile {
   // Standard footer
   static final int footer[] = new int[]
      {
-     0x01, 0xFF, 0x2F, 0x00
+     0x01, 0xFF, 0x2F, 0x00             // FF 2F 00, End of Track
      };
 
   // A MIDI event to set the tempo
   static final int tempoEvent[] = new int[]
      {
-     0x00, 0xFF, 0x51, 0x03,
-     0x0F, 0x42, 0x40 // Default 1 million usec per crotchet
+     0x00, 0xFF, 0x51, 0x03,            // FF 51 03 tt tt tt, Set Tempo
+     0x0F, 0x42, 0x40 // Default 1 million usec per crotchet, 0xf4240 = 0n1,000,000
      };
 
   // A MIDI event to set the key signature. This is irrelent to
   //  playback, but necessary for editing applications 
   static final int keySigEvent[] = new int[]
      {
-     0x00, 0xFF, 0x59, 0x02,
+     0x00, 0xFF, 0x59, 0x02,            // FF 59 02 sf mi, Key Signature
      0x00, // C
      0x00  // major
      };
@@ -69,7 +72,7 @@ public class MidiFile {
   //  playback, but necessary for editing applications 
   static final int timeSigEvent[] = new int[]
      {
-     0x00, 0xFF, 0x58, 0x04,
+     0x00, 0xFF, 0x58, 0x04,            // FF 58 04 nn dd cc bb, Time Signature.
      0x04, // numerator
      0x02, // denominator (2==4, because it's a power of 2)
      0x30, // ticks per click (not used)
